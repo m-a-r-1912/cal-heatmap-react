@@ -1,0 +1,834 @@
+[
+    {
+      "date": "2012-01-01",
+      "precipitation": 0,
+      "temp_max": 12.8,
+      "temp_min": 5,
+      "wind": 4.7,
+      "weather": "drizzle"
+    },
+    {
+      "date": "2012-01-02",
+      "precipitation": 10.9,
+      "temp_max": 10.6,
+      "temp_min": 2.8,
+      "wind": 4.5,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-03",
+      "precipitation": 0.8,
+      "temp_max": 11.7,
+      "temp_min": 7.2,
+      "wind": 2.3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-04",
+      "precipitation": 20.3,
+      "temp_max": 12.2,
+      "temp_min": 5.6,
+      "wind": 4.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-05",
+      "precipitation": 1.3,
+      "temp_max": 8.9,
+      "temp_min": 2.8,
+      "wind": 6.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-06",
+      "precipitation": 2.5,
+      "temp_max": 4.4,
+      "temp_min": 2.2,
+      "wind": 2.2,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-07",
+      "precipitation": 0,
+      "temp_max": 7.2,
+      "temp_min": 2.8,
+      "wind": 2.3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-08",
+      "precipitation": 0,
+      "temp_max": 10,
+      "temp_min": 2.8,
+      "wind": 2,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-01-09",
+      "precipitation": 4.3,
+      "temp_max": 9.4,
+      "temp_min": 5,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-10",
+      "precipitation": 1,
+      "temp_max": 6.1,
+      "temp_min": 0.6,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-11",
+      "precipitation": 0,
+      "temp_max": 6.1,
+      "temp_min": -1.1,
+      "wind": 5.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-01-12",
+      "precipitation": 0,
+      "temp_max": 6.1,
+      "temp_min": -1.7,
+      "wind": 1.9,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-01-13",
+      "precipitation": 0,
+      "temp_max": 5,
+      "temp_min": -2.8,
+      "wind": 1.3,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-01-14",
+      "precipitation": 4.1,
+      "temp_max": 4.4,
+      "temp_min": 0.6,
+      "wind": 5.3,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-15",
+      "precipitation": 5.3,
+      "temp_max": 1.1,
+      "temp_min": -3.3,
+      "wind": 3.2,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-16",
+      "precipitation": 2.5,
+      "temp_max": 1.7,
+      "temp_min": -2.8,
+      "wind": 5,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-17",
+      "precipitation": 8.1,
+      "temp_max": 3.3,
+      "temp_min": 0,
+      "wind": 5.6,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-18",
+      "precipitation": 19.8,
+      "temp_max": 0,
+      "temp_min": -2.8,
+      "wind": 5,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-19",
+      "precipitation": 15.2,
+      "temp_max": -1.1,
+      "temp_min": -2.8,
+      "wind": 1.6,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-20",
+      "precipitation": 13.5,
+      "temp_max": 7.2,
+      "temp_min": -1.1,
+      "wind": 2.3,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-01-21",
+      "precipitation": 3,
+      "temp_max": 8.3,
+      "temp_min": 3.3,
+      "wind": 8.2,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-22",
+      "precipitation": 6.1,
+      "temp_max": 6.7,
+      "temp_min": 2.2,
+      "wind": 4.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-23",
+      "precipitation": 0,
+      "temp_max": 8.3,
+      "temp_min": 1.1,
+      "wind": 3.6,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-24",
+      "precipitation": 8.6,
+      "temp_max": 10,
+      "temp_min": 2.2,
+      "wind": 5.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-25",
+      "precipitation": 8.1,
+      "temp_max": 8.9,
+      "temp_min": 4.4,
+      "wind": 5.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-26",
+      "precipitation": 4.8,
+      "temp_max": 8.9,
+      "temp_min": 1.1,
+      "wind": 4.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-27",
+      "precipitation": 0,
+      "temp_max": 6.7,
+      "temp_min": -2.2,
+      "wind": 1.4,
+      "weather": "drizzle"
+    },
+    {
+      "date": "2012-01-28",
+      "precipitation": 0,
+      "temp_max": 6.7,
+      "temp_min": 0.6,
+      "wind": 2.2,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-29",
+      "precipitation": 27.7,
+      "temp_max": 9.4,
+      "temp_min": 3.9,
+      "wind": 4.5,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-30",
+      "precipitation": 3.6,
+      "temp_max": 8.3,
+      "temp_min": 6.1,
+      "wind": 5.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-01-31",
+      "precipitation": 1.8,
+      "temp_max": 9.4,
+      "temp_min": 6.1,
+      "wind": 3.9,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-01",
+      "precipitation": 13.5,
+      "temp_max": 8.9,
+      "temp_min": 3.3,
+      "wind": 2.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-02",
+      "precipitation": 0,
+      "temp_max": 8.3,
+      "temp_min": 1.7,
+      "wind": 2.6,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-03",
+      "precipitation": 0,
+      "temp_max": 14.4,
+      "temp_min": 2.2,
+      "wind": 5.3,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-04",
+      "precipitation": 0,
+      "temp_max": 15.6,
+      "temp_min": 5,
+      "wind": 4.3,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-05",
+      "precipitation": 0,
+      "temp_max": 13.9,
+      "temp_min": 1.7,
+      "wind": 2.9,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-06",
+      "precipitation": 0,
+      "temp_max": 16.1,
+      "temp_min": 1.7,
+      "wind": 5,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-07",
+      "precipitation": 0.3,
+      "temp_max": 15.6,
+      "temp_min": 7.8,
+      "wind": 5.3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-08",
+      "precipitation": 2.8,
+      "temp_max": 10,
+      "temp_min": 5,
+      "wind": 2.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-09",
+      "precipitation": 2.5,
+      "temp_max": 11.1,
+      "temp_min": 7.8,
+      "wind": 2.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-10",
+      "precipitation": 2.5,
+      "temp_max": 12.8,
+      "temp_min": 6.7,
+      "wind": 3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-11",
+      "precipitation": 0.8,
+      "temp_max": 8.9,
+      "temp_min": 5.6,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-12",
+      "precipitation": 1,
+      "temp_max": 8.3,
+      "temp_min": 5,
+      "wind": 1.3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-13",
+      "precipitation": 11.4,
+      "temp_max": 7.2,
+      "temp_min": 4.4,
+      "wind": 1.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-14",
+      "precipitation": 2.5,
+      "temp_max": 6.7,
+      "temp_min": 1.1,
+      "wind": 3.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-15",
+      "precipitation": 0,
+      "temp_max": 7.2,
+      "temp_min": 0.6,
+      "wind": 1.8,
+      "weather": "drizzle"
+    },
+    {
+      "date": "2012-02-16",
+      "precipitation": 1.8,
+      "temp_max": 7.2,
+      "temp_min": 3.3,
+      "wind": 2.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-17",
+      "precipitation": 17.3,
+      "temp_max": 10,
+      "temp_min": 4.4,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-18",
+      "precipitation": 6.4,
+      "temp_max": 6.7,
+      "temp_min": 3.9,
+      "wind": 8.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-19",
+      "precipitation": 0,
+      "temp_max": 6.7,
+      "temp_min": 2.2,
+      "wind": 4.7,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-20",
+      "precipitation": 3,
+      "temp_max": 7.8,
+      "temp_min": 1.7,
+      "wind": 2.9,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-21",
+      "precipitation": 0.8,
+      "temp_max": 10,
+      "temp_min": 7.8,
+      "wind": 7.5,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-22",
+      "precipitation": 8.6,
+      "temp_max": 10,
+      "temp_min": 2.8,
+      "wind": 5.9,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-23",
+      "precipitation": 0,
+      "temp_max": 8.3,
+      "temp_min": 2.8,
+      "wind": 3.9,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-24",
+      "precipitation": 11.4,
+      "temp_max": 6.7,
+      "temp_min": 4.4,
+      "wind": 3.5,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-25",
+      "precipitation": 0,
+      "temp_max": 7.2,
+      "temp_min": 2.8,
+      "wind": 6.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-02-26",
+      "precipitation": 1.3,
+      "temp_max": 5,
+      "temp_min": -1.1,
+      "wind": 3.4,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-02-27",
+      "precipitation": 0,
+      "temp_max": 6.7,
+      "temp_min": -2.2,
+      "wind": 3,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-02-28",
+      "precipitation": 3.6,
+      "temp_max": 6.7,
+      "temp_min": -0.6,
+      "wind": 4.2,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-02-29",
+      "precipitation": 0.8,
+      "temp_max": 5,
+      "temp_min": 1.1,
+      "wind": 7,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-01",
+      "precipitation": 0,
+      "temp_max": 6.1,
+      "temp_min": 1.1,
+      "wind": 3.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-02",
+      "precipitation": 2,
+      "temp_max": 6.7,
+      "temp_min": 3.9,
+      "wind": 5.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-03",
+      "precipitation": 0,
+      "temp_max": 12.2,
+      "temp_min": 6.7,
+      "wind": 7,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-04",
+      "precipitation": 0,
+      "temp_max": 10.6,
+      "temp_min": 6.7,
+      "wind": 5.6,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-05",
+      "precipitation": 6.9,
+      "temp_max": 7.8,
+      "temp_min": 1.1,
+      "wind": 6.2,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-06",
+      "precipitation": 0.5,
+      "temp_max": 6.7,
+      "temp_min": 0,
+      "wind": 2.7,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-07",
+      "precipitation": 0,
+      "temp_max": 8.9,
+      "temp_min": -1.7,
+      "wind": 2.7,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-08",
+      "precipitation": 0,
+      "temp_max": 15.6,
+      "temp_min": 0.6,
+      "wind": 2.5,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-09",
+      "precipitation": 3.6,
+      "temp_max": 9.4,
+      "temp_min": 5,
+      "wind": 2.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-10",
+      "precipitation": 10.4,
+      "temp_max": 7.2,
+      "temp_min": 6.1,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-11",
+      "precipitation": 13.7,
+      "temp_max": 6.7,
+      "temp_min": 2.8,
+      "wind": 5.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-12",
+      "precipitation": 19.3,
+      "temp_max": 8.3,
+      "temp_min": 0.6,
+      "wind": 6.2,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-13",
+      "precipitation": 9.4,
+      "temp_max": 5.6,
+      "temp_min": 0.6,
+      "wind": 5.3,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-14",
+      "precipitation": 8.6,
+      "temp_max": 7.8,
+      "temp_min": 1.1,
+      "wind": 4.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-15",
+      "precipitation": 23.9,
+      "temp_max": 11.1,
+      "temp_min": 5.6,
+      "wind": 5.8,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-16",
+      "precipitation": 8.4,
+      "temp_max": 8.9,
+      "temp_min": 3.9,
+      "wind": 5.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-17",
+      "precipitation": 9.4,
+      "temp_max": 10,
+      "temp_min": 0.6,
+      "wind": 3.8,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-03-18",
+      "precipitation": 3.6,
+      "temp_max": 5,
+      "temp_min": -0.6,
+      "wind": 2.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-19",
+      "precipitation": 2,
+      "temp_max": 7.2,
+      "temp_min": -1.1,
+      "wind": 3,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-20",
+      "precipitation": 3.6,
+      "temp_max": 7.8,
+      "temp_min": 2.2,
+      "wind": 6.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-21",
+      "precipitation": 1.3,
+      "temp_max": 8.9,
+      "temp_min": 1.1,
+      "wind": 2.5,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-22",
+      "precipitation": 4.1,
+      "temp_max": 10,
+      "temp_min": 1.7,
+      "wind": 2.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-23",
+      "precipitation": 0,
+      "temp_max": 12.2,
+      "temp_min": 0.6,
+      "wind": 2.8,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-24",
+      "precipitation": 0,
+      "temp_max": 15,
+      "temp_min": 3.3,
+      "wind": 5.2,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-03-25",
+      "precipitation": 0,
+      "temp_max": 13.3,
+      "temp_min": 2.2,
+      "wind": 2.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-26",
+      "precipitation": 0,
+      "temp_max": 12.8,
+      "temp_min": 6.1,
+      "wind": 4.3,
+      "weather": "drizzle"
+    },
+    {
+      "date": "2012-03-27",
+      "precipitation": 4.8,
+      "temp_max": 14.4,
+      "temp_min": 6.7,
+      "wind": 3.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-28",
+      "precipitation": 1.3,
+      "temp_max": 10.6,
+      "temp_min": 7.2,
+      "wind": 5.9,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-29",
+      "precipitation": 27.4,
+      "temp_max": 10,
+      "temp_min": 6.1,
+      "wind": 4.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-30",
+      "precipitation": 5.6,
+      "temp_max": 9.4,
+      "temp_min": 5,
+      "wind": 4.7,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-03-31",
+      "precipitation": 13.2,
+      "temp_max": 10,
+      "temp_min": 2.8,
+      "wind": 3.4,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-01",
+      "precipitation": 1.5,
+      "temp_max": 8.9,
+      "temp_min": 4.4,
+      "wind": 6.8,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-02",
+      "precipitation": 0,
+      "temp_max": 16.7,
+      "temp_min": 4.4,
+      "wind": 3.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-04-03",
+      "precipitation": 1.5,
+      "temp_max": 11.7,
+      "temp_min": 3.3,
+      "wind": 3.1,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-04",
+      "precipitation": 0,
+      "temp_max": 10.6,
+      "temp_min": 2.8,
+      "wind": 2.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-04-05",
+      "precipitation": 4.6,
+      "temp_max": 9.4,
+      "temp_min": 2.8,
+      "wind": 1.8,
+      "weather": "snow"
+    },
+    {
+      "date": "2012-04-06",
+      "precipitation": 0.3,
+      "temp_max": 11.1,
+      "temp_min": 3.3,
+      "wind": 2.6,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-07",
+      "precipitation": 0,
+      "temp_max": 16.1,
+      "temp_min": 1.7,
+      "wind": 4.3,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-04-08",
+      "precipitation": 0,
+      "temp_max": 21.1,
+      "temp_min": 7.2,
+      "wind": 4.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-04-09",
+      "precipitation": 0,
+      "temp_max": 20,
+      "temp_min": 6.1,
+      "wind": 2.1,
+      "weather": "sun"
+    },
+    {
+      "date": "2012-04-10",
+      "precipitation": 0,
+      "temp_max": 17.8,
+      "temp_min": 8.9,
+      "wind": 3.2,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-11",
+      "precipitation": 2.3,
+      "temp_max": 11.1,
+      "temp_min": 7.2,
+      "wind": 2.6,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-12",
+      "precipitation": 0.5,
+      "temp_max": 13.9,
+      "temp_min": 5.6,
+      "wind": 2.6,
+      "weather": "rain"
+    },
+    {
+      "date": "2012-04-13",
+      "precipitation": 0,
+      "temp_max": 15,
+      "temp_min": 3.9,
+      "wind": 4,
+      "weather": "drizzle"
+    }
+   ]
